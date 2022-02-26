@@ -11,3 +11,14 @@ account expenses which we divide it into five categories Food, Entertainment, Ed
 The app also provides your expenses in the form of percentage(%) data so that you can easily track how of your earnings/savings debited on these categories.
 
 
+<img src="Project_Images/1.jpg"  width="300" height="500">
+
+<img src="Project_Images/2.jpg"  width="300" height="500">
+
+<img src="Project_Images/3.jpg"  width="300" height="500">
+
+<img src="Project_Images/4.jpg"  width="300" height="500">
+
+<img src="Project_Images/5.jpg"  width="300" height="500">
+
+<img src="Project_Images/6.jpg"  width="300" height="500">
