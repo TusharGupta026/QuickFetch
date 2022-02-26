@@ -10,6 +10,10 @@ validating the consent the app fetch the account details like Name,Account Numbe
 account expenses which we divide it into five categories Food, Entertainment, Education, Lifestyle and Other. 
 The app also provides your expenses in the form of percentage(%) data so that you can easily track how of your earnings/savings debited on these categories.
 
+Features of this App:
+1) Automatic Otp Verification
+2) Take Consent from the User to Fetch Details
+3) Show Information along with pie chart of your monthly expenses
 
 <img src="Project_Images/1.jpg"  width="300" height="500">
 
