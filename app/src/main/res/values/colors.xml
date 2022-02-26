@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#5F00E4</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#0B449A</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#A5A5A5</color>
+    <color name="Food">#FFA726</color>
+    <color name="Entertainment">#66BB6A</color>
+    <color name="Education">#EF5350</color>
+    <color name="Lifestyle">#29B6F6</color>
+    <color name="Other">#3321DF</color>
+</resources>

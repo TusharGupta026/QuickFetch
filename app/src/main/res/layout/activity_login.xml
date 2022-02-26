@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="20sp"
+            android:layout_marginHorizontal="10sp"
+            android:text="Login To QuickFetch!"
+            android:textColor="@color/black"
+            android:textSize="28sp"/>
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_height="350dp"
+            app:srcCompat="@drawable/ic_mobile_payments_amico" />
+
+        <EditText
+            android:id="@+id/enterPhoneNumber"
+            android:layout_marginTop="70sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30sp"
+            android:hint="Enter Your Mobile Number"
+            android:ems="10"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/sendOtp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15sp"
+            android:layout_marginHorizontal="30sp"
+            android:text="Send Otp" />
+    </LinearLayout>
+</RelativeLayout>
